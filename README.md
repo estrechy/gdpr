@@ -1,13 +1,13 @@
 # GDPR Strategy
 
-## E-Shopy
+## E-Shopy + Mobilní verze
 
-### Česko
+### Česko 
 
 1. Ochrana Osobních Údajů - stránka
-2. Cookies Popup 
-3. Odstranit IP adresy
-4. Vytvořit SYS funkci anonymizace
+1. Cookies Popup 
+1. Odstranit IP adresy
+1. Vytvořit SYS funkci anonymizace
 
 ### Slovensko
 
@@ -16,6 +16,9 @@ Viz Česko.
 ### Legacy
 
 ## Portály
+
+1. Vytvořit personal-data-agreement-email-notificator
+1. Obeslat uživatele
 
 ### Katalog
 ### Poptávky
